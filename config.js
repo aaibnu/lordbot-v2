@@ -8,14 +8,14 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281392074639': { // put your number here
-    name: 'Agung (Creator2 Botz)',
+  '6281807254833': { // put your number here
+    name: 'OWNER IBNU (Creator2 Botz)',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6282179163895': { // put your number here
-    name: 'Andi (Testing Botz',
+  '6281382687623': { // put your number here
+    name: 'IBNU_BOT (Testing Botz',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
